@@ -9,3 +9,4 @@ return array(
     'url'         => 'https://github.com/thammanna/osticket-slack',
     'plugin'      => 'slack.php:SlackPlugin',
 );
+asdf
